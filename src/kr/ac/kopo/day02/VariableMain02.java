@@ -19,7 +19,10 @@ public class VariableMain02 {
 		
 		System.out.println(12 + (int)12.34);
 		System.out.println(/*(double)*/12 + 12.34);
-		
+	
+		System.out.printf("%c", (char)65);
+		System.out.printf("%d", (int)'A');
+
 	}
 
 }
