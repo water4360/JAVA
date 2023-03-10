@@ -1,6 +1,5 @@
 package kr.ac.kopo.day03;
 
-
 /*
  * 두개 정수 입력받음 : 12 5
  * 12는 5의 배수판단 : false 나오도록.
